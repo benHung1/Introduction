@@ -1,6 +1,6 @@
 # Hi there 👋，My ame is Ben，It's a pleasure to meet you
 
-* Ben Hung
+* BenHung
 
 * Birthday: June 24th , 1995
 
