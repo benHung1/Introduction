@@ -41,6 +41,8 @@
 
 # Professional Skill(依最近撰寫的專案個別介紹)
 
+*  使用React框架Clone公司官網 https://benhung1.github.io/digi/
+
 * 使用React框架，練習串接API完成的作品 : https://benhung1.github.io/react-practice2/
 
 * 使用React框架架設一個靜態的網頁 : https://benhung1.github.io/react-practice/
