@@ -16,7 +16,7 @@
 
 * HTML & CSS3 
 
-* CSS framework: Bootstrap
+* CSS framework: tailwind.styled.components
 
 * Responsive Web Design
 * FrontEnd Programming Language:
