@@ -41,7 +41,7 @@
 
 # Professional Skill(依最近撰寫的專案個別介紹)
 
-// 實際完成過更多作品，這裡只附上較有特色的，詳細可以在Repos上看
+// 實際完成過更多作品，這裡只附上較有特色的，詳細可以在Repos上看(每一份作品皆有RWD)
 
 * 使用React框架，練習串接API完成的作品 : https://benhung1.github.io/react-practice2/
 
