@@ -47,8 +47,6 @@
 
 * 使用React框架架設一個靜態的網頁 : https://benhung1.github.io/react-practice/
 
-* 使用Vue框架架設一個Blog的網頁，有訪客及會員功能頁面皆不同，練習串接FireBase : https://benhung1.github.io/VueBlogs/
-
 * 補習班團專作品 : https://tibamef2e.com/tfd103/g1/TFD103-G1/src/html/index.html
 
 * 補習班個專作品 : https://benhung1.github.io/FIRSTWEB/GOGO/Index.html
